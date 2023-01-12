@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SixAxisRecord</string>
+    <string name="harshAccelerate">急加速</string>
+    <string name="harshBreak">急煞車</string>
+    <string name="HarshCornering">急轉彎</string>
+    <string name="end">End</string>
+    <string name="start">Start</string>
+</resources>
